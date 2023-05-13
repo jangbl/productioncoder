@@ -1,13 +1,13 @@
 ## Hi, I'm Jan - aka [productioncoder][website] 👋
 
 [![Website](https://img.shields.io/website?label=jangoebel.com&style=for-the-badge&url=https%3A%2F%2Fjangoebel.com)](https://jangoebel.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/productioncoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fproductioncoder&screen_name=productioncoder)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_jgoebel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fproductioncoder&screen_name=_jgoebel)
 
 I build software with **Javascript** and **Java**.
 
 [website]: https://jangoebel.com
 [blog]: https://productioncoder.com
-[twitter]: https://twitter.com/productioncoder
+[twitter]: https://twitter.com/_jgoebel
 [youtube]: https://youtube.com/channel/UCFOmyIxUSbCqTLWoa4IODxw
 [linkedin]: https://www.linkedin.com/in/jan-goebel-15113b90
 [stackoverflow]: https://stackoverflow.com/users/2328833/productioncoder
